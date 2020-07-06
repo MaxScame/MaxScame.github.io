@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-    - master
+    - dev
 
 jobs:
   build-deploy:
@@ -20,5 +20,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        publish_branch: gh-pages
+        publish_branch: master
         publish_dir: ./public

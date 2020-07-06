@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>c++ on scame@ru_blog:~#</title><link>https://maxscame.github.io/ru/tags/c++/</link><description>Recent content in c++ on scame@ru_blog:~#</description><generator>Hugo -- gohugo.io</generator><copyright>Максим Н.</copyright><lastBuildDate>Sun, 03 Sep 2017 09:27:00 +0300</lastBuildDate><atom:link href="https://maxscame.github.io/ru/tags/c++/index.xml" rel="self" type="application/rss+xml"/><item><title>Цвет в консоли</title><link>https://maxscame.github.io/ru/posts/test/</link><pubDate>Sun, 03 Sep 2017 09:27:00 +0300</pubDate><guid>https://maxscame.github.io/ru/posts/test/</guid><description>
+Попробуем разобраться, как работает этот код:
+и как добиться примерно такого:
+Результат</description></item></channel></rss>

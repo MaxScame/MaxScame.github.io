@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>scame@ru_blog:~#</title><link>https://maxscame.github.io/ru/</link><description>Recent content on scame@ru_blog:~#</description><generator>Hugo -- gohugo.io</generator><copyright>Максим Н.</copyright><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maxscame.github.io/ru/index.xml" rel="self" type="application/rss+xml"/><item><title>Инфо</title><link>https://maxscame.github.io/ru/about/</link><pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate><guid>https://maxscame.github.io/ru/about/</guid><description/></item><item><title>Credits</title><link>https://maxscame.github.io/ru/credits/</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0300</pubDate><guid>https://maxscame.github.io/ru/credits/</guid><description>Работает на Hugo Apache-2.0 License
-Тема: переделанная Archie MIT License</description></item></channel></rss>
+Тема: переделанная Archie MIT License</description></item><item><title>Цвет в консоли</title><link>https://maxscame.github.io/ru/posts/test/</link><pubDate>Sun, 03 Sep 2017 09:27:00 +0300</pubDate><guid>https://maxscame.github.io/ru/posts/test/</guid><description>
+Попробуем разобраться, как работает этот код:
+и как добиться примерно такого:
+Результат</description></item></channel></rss>

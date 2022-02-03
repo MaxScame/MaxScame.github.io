@@ -1,5 +1,5 @@
 baseURL = "https://maxscame.github.io/"
-title = "scame@blog:~#"
+title = "scame@blog~"
 copyright = "Maxim N."
 theme = "archie"
 
@@ -33,22 +33,22 @@ icon = "message-square"
 url = "https://t.me/outside_space"
 
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ru"
 
 
 [languages]
-  [languages.en]
-    languageName = "English"
-    weight = 1
-    contentDir = "content/en"
-
   [languages.ru]
     languageName = "Русский"
-    title = "scame@ru_blog:~#"
+    title = "scame@ru_blog~"
     subtitle = "Пишу всякий софт для георадаров📡"
     copyright = "Максим Н."
     weight = 2
     contentDir = "content/ru"
+
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en"
 
 
 
